@@ -1,0 +1,8 @@
+Default:
+  RequestUrlHost: &8505652 ~
+  RequestUrlPrefix: ~
+  DatabaseProvider: SqlConnection
+  TablePrefix: patra2
+  ConnectionString: Data Source=localhost;Initial Catalog=patra2;User Id=sa;Password=merdeka123
+  State: Running
+...
